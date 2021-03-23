@@ -1,1 +1,1 @@
-# repo-with-sub-module
+# repo-with-submodule
