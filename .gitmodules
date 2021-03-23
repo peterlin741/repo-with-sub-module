@@ -1,0 +1,3 @@
+[submodule "submodules/et-test-v2"]
+	path = submodules/et-test-v2
+	url = https://github.com/peterlin741/et-test-v2.git
